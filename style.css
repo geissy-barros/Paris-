@@ -1,0 +1,44 @@
+#ima1 {margin-left: 30%}
+#ima1 {width: 40% }
+#ima1 {size: 700%}
+#ima1 {border-color: rgb(0, 132, 255);} 
+#ima1 {border: solid 3PX}  
+
+
+h1 {color:red}
+h1 {font-size: 340%}
+h1 {text-align: center;}
+h1 {border: solid 3PX crimson}   
+
+h2 {font-size: 240%}
+h2 {color: black;}
+
+
+
+    footer {margin-left: 10%;
+        margin-right: 10%;
+       
+    background-color: rgb(3, 3, 66);
+    border-style: initial;
+font-size: 200%;
+color: coral;
+border: solid 3PX rgb(255, 208, 0);
+}
+
+h3 {text-align: center;
+    border: solid 3PX rgb(0, 255, 98);
+}
+
+main {background-color: yellow; }
+h4 {font-size: 340%}
+h4 {text-align: center;}
+h4 {border: solid 3PX crimson}  
+
+li {text-align: center;}
+li {font-size: 340%;}
+
+header {background-color: rgb(214, 205, 255);}
+
+    
+    
+        
